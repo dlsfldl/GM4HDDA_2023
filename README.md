@@ -3,14 +3,10 @@ The official repository for the homework assignments of the lecture <Geometric M
 
 #### Table of Contents  
 [Instructions for Settings](#Instructions-for-Settings)  
-[Homework 1](#Homework-1)  
-[Homework 2](#Homework-2)  
-[Homework 3](#Homework-3)  
-[Homework 4](#Homework-4)  
-[Homework 5](#Homework-5)
+[Homework 1](#Homework-1)
 
 #### TA Contacts
-- Younghun Kim (bhlee@robotics.snu.ac.kr, *Head TA*)
+- Byeongho Lee (bhlee@robotics.snu.ac.kr, *Head TA*)
 - Jihwan Kim (jihwankim@robotics.snu.ac.kr)
 - Seokjin Choi (csj@robotics.snu.ac.kr)
 
