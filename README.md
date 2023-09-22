@@ -1,6 +1,13 @@
 # M3239.006800: Geometric Methods for High-Dimensional Data Analysis
 The official repository for the homework assignments of the lecture <Geometric Methods for High-Dimensional Data Analysis> instructed by Frank C. Park in Seoul National University. 
 
+#### Programming Exercise Submission Guide
+Send your .ipynb file (and additional files if requested) as an email to **hdda2023@robotics.snu.ac.kr, not to the TAs' email addresses.**
+
+- The title of your email should be in the form of "2021-33133 Gildong Hong HW1".
+
+- The title of your file should be in the form of "2021-33123_HW1".
+
 #### Table of Contents  
 [Instructions for Settings](#Instructions-for-Settings)  
 [Homework 1](#Homework-1)
