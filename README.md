@@ -3,7 +3,9 @@ The official repository for the homework assignments of the lecture <Geometric M
 
 #### Programming Exercise Submission Guide
 Send your .ipynb file (and additional files if requested) to **hdda2023@robotics.snu.ac.kr, not to the TAs' email address.**
+
 - The title of your email should be in the form of "**Student_number** **Name** HW**HWnumber**", e.g. "2021-37193 Byeongho Lee HW1".
+
 - The title of your file should be in the form of "**Student_number**_HW**HWnumber**".
 
 #### Table of Contents  
