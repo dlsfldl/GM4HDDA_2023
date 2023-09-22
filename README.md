@@ -58,4 +58,4 @@ pip install -r requirements.txt
 Install PyTorch and torchvision from the following link: [https://pytorch.org](https://pytorch.org). 
 
 ## Homework 1
-Follow the instructions in the ``HW1.ipynb`` file. After you complete and run the HW ipython file, send the result file to ``csj@robotics.snu.ac.kr``.   
+Follow the instructions in the ``HW1.ipynb`` file. After you complete and run the HW ipython file, send the result file to ``hdda2023@robotics.snu.ac.kr ``.   
