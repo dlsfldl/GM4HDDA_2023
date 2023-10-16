@@ -1,7 +1,7 @@
 datasets
 pretrained
 gif
-*_solution.ipynb
+# *_solution.ipynb
 *.gif
 
 # Byte-compiled / optimized / DLL files
