@@ -3,6 +3,7 @@ pretrained
 gif
 # *_solution.ipynb
 *.gif
+*nopush.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
